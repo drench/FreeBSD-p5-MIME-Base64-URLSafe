@@ -1,3 +1,6 @@
 Perl version of Python's URL-safe base64 codec
 
+My working version this port is at:
+http://github.com/drench/FreeBSD-p5-MIME-Base64-URLSafe
+
 WWW: http://search.cpan.org/dist/MIME-Base64-URLSafe/
